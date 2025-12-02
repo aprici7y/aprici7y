@@ -1,6 +1,6 @@
 ## About Me
 
-M.Sc. Student & Part-time Full Stack Developer passionate about building robust applications and exploring the intersections of software engineering and machine learning.
+Full Stack Developer passionate about building robust applications and exploring the intersections of software engineering and machine learning.
 
 ## 💻 Tech Stack
 
